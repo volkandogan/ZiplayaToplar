@@ -1,0 +1,4 @@
+#Mon Mar 22 20:25:48 EET 2021
+base.0=/Users/volkan/Desktop/unity/Android Game in 40 minutes/Temp/gradleOut/launcher/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
